@@ -16,7 +16,8 @@ A responsive React/Next.js calendar component inspired by a physical wall calend
 
 ## 🖼️ Preview
 
-![Calendar Screenshot](./public/screenshot.png)
+<img width="1295" height="853" alt="image" src="https://github.com/user-attachments/assets/045ac257-1fc2-421d-9682-96c0b1e984ac" />
+
 
 ---
 
@@ -42,13 +43,13 @@ npm run dev
 
 ## 🎥 Demo Video
 
-[Watch Demo](https://drive.google.com/your-link)
+[Watch Demo](https://drive.google.com/file/d/1c_qWH69vhM5F7wOmBnS37TyIrQyRhEEj/view?usp=sharing)
 
 ---
 
 ## 🌐 Live Demo
 
-https://your-vercel-link.vercel.app
+https://calendar-vert-five.vercel.app/
 
 ---
 
